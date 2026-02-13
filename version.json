@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath.exe",
-    "release_notes": "Initial Release\n- Auto email sync from Google Sheets\n- Category-based filtering\n- Automated job applications"
+    "release_notes": "Test Update\n- Testing auto-update feature\n- This is a dummy update for testing"
 }

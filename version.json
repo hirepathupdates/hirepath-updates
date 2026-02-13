@@ -1,5 +1,5 @@
 {
-    "version": "1.0.4",
-    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.4.exe",
-    "release_notes": "Version 1.0.4\n- Added Activate Subscription menu near Help\n- Added popup key entry for subscription activation\n- Unified key activation flow for menu and credentials tab\n- Fixed license textbox usability workaround"
+    "version": "1.0.5",
+    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.5.exe",
+    "release_notes": "Version 1.0.5\n- Modern UI (CustomTkinter) with new tabs and workflows\n- New Jobs and Apply flows integrated in modern UI\n- Professional styling, masked email previews, and updated copy\n- Strict license validation via backend with auto-revocation"
 }

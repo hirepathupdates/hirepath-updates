@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
-    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.3.exe",
-    "release_notes": "Version 1.0.3\n- Backend license validation via Supabase (secure key management)\n- Fixed auto-sync: only syncs emails after category is set\n- Improved cloud sync behavior and offline fallback\n- Enhanced license caching for offline access\n- Fixed category field initialization on fresh installs"
+    "version": "1.0.4",
+    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.4.exe",
+    "release_notes": "Version 1.0.4\n- Added Activate Subscription menu near Help\n- Added popup key entry for subscription activation\n- Unified key activation flow for menu and credentials tab\n- Fixed license textbox usability workaround"
 }

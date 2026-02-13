@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
-    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.2.exe",
-    "release_notes": "Version 1.0.2\n- Added detailed trial countdown timer (days/hours/minutes)\n- Trial period now persists across reinstalls\n- Fixed trial expiration on fresh installs\n- Improved license status visibility with top banner"
+    "version": "1.0.3",
+    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.3.exe",
+    "release_notes": "Version 1.0.3\n- Backend license validation via Supabase (secure key management)\n- Fixed auto-sync: only syncs emails after category is set\n- Improved cloud sync behavior and offline fallback\n- Enhanced license caching for offline access\n- Fixed category field initialization on fresh installs"
 }

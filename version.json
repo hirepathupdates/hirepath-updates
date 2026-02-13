@@ -1,5 +1,5 @@
 {
     "version": "1.0.1",
-    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath.exe",
-    "release_notes": "Test Update\n- Testing auto-update feature\n- This is a dummy update for testing"
+    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.1.exe",
+    "release_notes": "Official release 1.0.1\n- Fixed auto-update loop\n- Set correct cloud URL in build\n- Stability improvements"
 }

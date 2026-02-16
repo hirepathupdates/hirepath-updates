@@ -1,5 +1,5 @@
 {
-    "version": "1.0.11",
-    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.11.exe",
-    "release_notes": "Version 1.0.11 - Production Ready\n- In-app updates: Download and install updates without leaving the app\n- Better license timer: Shows Days, Hours, Minutes, Seconds remaining\n- 3-day trial period for new users\n- Auto-sync every 10 seconds\n- 40 emails per day limit\n- Smart category switching\n- Professional UI with real-time updates"
+    "version": "1.0.12",
+    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.12.exe",
+    "release_notes": "Version 1.0.12 - Bugfix Release\n- FIXED: Path import error in in-app update feature\n- In-app updates now working properly\n- Better license timer: Days, Hours, Minutes, Seconds\n- 3-day trial period\n- Auto-sync every 10 seconds\n- 40 emails per day limit\n- All features fully functional"
 }

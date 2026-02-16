@@ -1,5 +1,5 @@
 {
-    "version": "1.0.5",
-    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.5.exe",
-    "release_notes": "Version 1.0.5\n- Modern UI (CustomTkinter) with new tabs and workflows\n- New Jobs and Apply flows integrated in modern UI\n- Professional styling, masked email previews, and updated copy\n- Strict license validation via backend with auto-revocation"
+    "version": "1.0.6",
+    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.6.exe",
+    "release_notes": "Version 1.0.6\n- Auto-sync: Emails automatically refresh every 10 seconds\n- Daily limit: Maximum 40 emails per day per user\n- Smart category switching: Clears old emails when changing job categories\n- Better messaging: 'We synced new jobs' notification instead of technical messages\n- Strict license validation with immediate revocation"
 }

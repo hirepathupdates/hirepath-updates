@@ -1,5 +1,5 @@
 {
-    "version": "1.0.6",
-    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.6.exe",
-    "release_notes": "Version 1.0.6\n- Auto-sync: Emails automatically refresh every 10 seconds\n- Daily limit: Maximum 40 emails per day per user\n- Smart category switching: Clears old emails when changing job categories\n- Better messaging: 'We synced new jobs' notification instead of technical messages\n- Strict license validation with immediate revocation"
+    "version": "1.0.7",
+    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.7.exe",
+    "release_notes": "Version 1.0.7\n- Full feature test release\n- Auto-sync: Emails refresh every 10 seconds\n- Daily limit: 40 emails per day\n- Smart category switching\n- Improved messaging and UI\n- All systems operational"
 }

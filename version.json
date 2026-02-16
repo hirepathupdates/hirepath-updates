@@ -1,5 +1,5 @@
 {
-    "version": "1.0.14",
-    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.14.exe",
-    "release_notes": "Version 1.0.14 - UI Improvement\n- FIXED: Save Details button now fully visible on all screens\n- FIXED: Email subject field properly visible in Email Template tab\n- Scrollable Credentials tab for smaller screens\n- Better padding and layout for all screen sizes\n- All features working perfectly on any resolution"
+    "version": "1.0.15",
+    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.15.exe",
+    "release_notes": "Version 1.0.15 - UI Improvement\n- FIXED: Save Details button now fully visible on all screens\n- FIXED: Email subject field properly visible in Email Template tab\n- Scrollable Credentials tab for smaller screens\n- Better padding and layout for all screen sizes\n- All features working perfectly on any resolution"
 }

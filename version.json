@@ -1,5 +1,5 @@
 {
-    "version": "1.0.9",
-    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.9.exe",
-    "release_notes": "Version 1.0.9\n- Update system fully functional\n- Automatic update notifications on startup\n- Auto-sync every 10 seconds\n- Daily limit: 40 emails per day\n- Smart category switching with email clearing\n- Professional UI with real-time status\n- License validation with backend enforcement"
+    "version": "1.0.10",
+    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.10.exe",
+    "release_notes": "Version 1.0.10 - HOTFIX\n- FIXED: Update popup now working correctly\n- Using proper version comparison (packaging library)\n- Auto-checks for updates on startup\n- Fixed daemon thread timing issue\n- All features from v1.0.6+ working properly\n- Auto-sync, daily limits, category switching enabled"
 }

@@ -1,5 +1,5 @@
 {
-    "version": "1.0.15",
-    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.15.exe",
-    "release_notes": "Version 1.0.15 - UI Improvement\n- FIXED: Save Details button now fully visible on all screens\n- FIXED: Email subject field properly visible in Email Template tab\n- Scrollable Credentials tab for smaller screens\n- Better padding and layout for all screen sizes\n- All features working perfectly on any resolution"
+    "version": "1.0.17",
+    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.17.exe",
+    "release_notes": "Version 1.0.17 - Extended Trial Duration\n- Trial duration increased: 3 days → 5 days\n- All users' trials have been reset (clear across all machines)\n- New installations: 5-day trial\n- Trial still tied to hardware ID (prevents reset exploits)\n- Supabase database cleared for fresh trial starts"
 }

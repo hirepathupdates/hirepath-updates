@@ -1,5 +1,5 @@
 {
-    "version": "1.0.18",
-    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.18.exe",
-    "release_notes": "Version 1.0.18 - Auto-Upgrade Existing Trials\n- CRITICAL FIX: Automatically extends existing trials to 5 days\n- Old 3-day trials are auto-upgraded on app launch\n- No manual reset needed for customers\n- Trial extends from original start date (not reset)\n- Example: 1 day left on 3-day trial → becomes 3 days left on 5-day trial\n- Hardware ID protection still active"
+    "version": "1.0.19",
+    "download_url": "https://github.com/hirepathupdates/hirepath-updates/raw/main/HirePath_v1.0.19.exe",
+    "release_notes": "Version 1.0.19 - Manual Update Check Button\n- NEW: 'Check for Updates' button in header (green button)\n- Click to manually check for latest version\n- Shows 'You're up to date' if no updates available\n- Shows clear error message if check fails\n- Still includes auto-upgrade of old trials to 5 days\n- Safer for customers who miss auto-update popups"
 }
